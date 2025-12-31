@@ -1,0 +1,4 @@
+date, payee, fipayee-unused,amount,debit/credit,category, account, tag, memo, chknum
+02/15/2025,Dr. M Whitehill,,-150.00,,medical:pediatric,Checking,kids:Justin,annual checkup,101
+03/13/2025,John Smith paycheck,,1850.25,,salary,Checking
+04/11/2025,La Tour,,-225.00,,dining,Visa Rewards card
